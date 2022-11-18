@@ -1,0 +1,406 @@
+mint-artwork (1.6.0) vanessa; urgency=medium
+
+  * Mate power manager: Set icon policy to present by default
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 09 Jul 2022 14:06:14 +0200
+
+mint-artwork (1.5.9) vanessa; urgency=medium
+
+  * blueman: Use symbolic tray icons
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 27 Jun 2022 15:11:53 +0200
+
+mint-artwork (1.5.8) vanessa; urgency=medium
+
+  [ Michael Webster ]
+  * gschema overrides: Remove override for non-existant key.
+  * Bump debhelper version to silence build warnings.
+
+  [ Clement Lefebvre ]
+  * Revert "Bump debhelper version to silence build warnings."
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 24 Jun 2022 10:54:06 +0200
+
+mint-artwork (1.5.7) vanessa; urgency=medium
+
+  * Depend on mint-backgrounds-vanessa
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 26 Apr 2022 12:04:03 +0100
+
+mint-artwork (1.5.6) elsie; urgency=medium
+
+  * Increase nemo thumbnail limit to 32GB
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 07 Feb 2022 15:12:39 +0000
+
+mint-artwork (1.5.5) una; urgency=medium
+
+  * Depend on either mint-themes or mint-themes-legacy
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 17 Dec 2021 16:30:57 +0000
+
+mint-artwork (1.5.4) una; urgency=medium
+
+  * Remove obsolete key
+  * Depend on mint-backgrounds-una
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 18 Nov 2021 16:16:24 +0000
+
+mint-artwork (1.5.3) una; urgency=medium
+
+  * Revert "Switch xfce/mate to metacity"
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 28 Sep 2021 14:44:47 +0100
+
+mint-artwork (1.5.2) una; urgency=medium
+
+  * Switch xfce/mate to metacity
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 27 Sep 2021 17:08:40 +0100
+
+mint-artwork (1.5.1) uma; urgency=medium
+
+  * Set Xorg shortcuts
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 02 Jul 2021 15:55:22 +0100
+
+mint-artwork (1.5.0) uma; urgency=medium
+
+  * Xfce: Fix thunar launcher in Xfce 4.16
+  * Remove gnote skel
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 14 Jun 2021 12:04:07 +0100
+
+mint-artwork (1.4.9) uma; urgency=medium
+
+  * Depend on mint-backgrounds-uma
+  * Nemo: Use bulky as bulk-renamer
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 25 May 2021 17:49:16 +0100
+
+mint-artwork (1.4.8) ulyssa; urgency=medium
+
+  * Create ~/.local/share/applications
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 21 Dec 2020 16:14:11 +0000
+
+mint-artwork (1.4.7) ulyssa; urgency=medium
+
+  * Xfce: Make terminal fully opaque
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 13 Dec 2020 17:30:41 +0000
+
+mint-artwork (1.4.6) ulyssa; urgency=medium
+
+  * Remove drawing decorations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 08 Dec 2020 13:20:02 +0000
+
+mint-artwork (1.4.5) ulyssa; urgency=medium
+
+  * MPV: Enable HW acceleration
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 04 Dec 2020 15:05:17 +0000
+
+mint-artwork (1.4.4) ulyssa; urgency=medium
+
+  * Depend on mint-backgrounds-ulyssa
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 03 Dec 2020 14:58:53 +0000
+
+mint-artwork (1.4.3) ulyana; urgency=medium
+
+  * Xfce: Update whisker menu preferences
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 10 Jun 2020 18:22:48 +0100
+
+mint-artwork (1.4.2) ulyana; urgency=medium
+
+  * Update artwork for mate-system-monitor
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 10 Jun 2020 12:12:08 +0100
+
+mint-artwork (1.4.1) ulyana; urgency=medium
+
+  * MATE: Set hexchat as messenger
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 10 Jun 2020 11:19:26 +0100
+
+mint-artwork (1.4.0) ulyana; urgency=medium
+
+  * Prevent GTK FileChooser from selecting recents by default
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 06 Jun 2020 15:36:21 +0100
+
+mint-artwork (1.3.9) ulyana; urgency=medium
+
+  * Update branded backgrounds
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 08 May 2020 12:54:05 +0100
+
+mint-artwork (1.3.8) ulyana; urgency=medium
+
+  * Switch to symbolic menu icon
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 24 Apr 2020 10:47:05 +0100
+
+mint-artwork (1.3.7) ulyana; urgency=medium
+
+  * Xfce: Edit favorites
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 23 Apr 2020 12:55:42 +0100
+
+mint-artwork (1.3.6) ulyana; urgency=medium
+
+  * gnote: Switch to CSD in all DEs
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 20 Apr 2020 12:58:21 +0100
+
+mint-artwork (1.3.5) ulyana; urgency=medium
+
+  * Depend on mint-backgrounds-ulyana
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 07 Apr 2020 11:42:30 +0100
+
+mint-artwork (1.3.4) tricia; urgency=medium
+
+  * Thunar: Default to pathbar style
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 12 Dec 2019 12:04:53 +0000
+
+mint-artwork (1.3.3) tricia; urgency=medium
+
+  * Gnote: Don't create startup notes
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 04 Dec 2019 16:04:06 +0000
+
+mint-artwork (1.3.2) tricia; urgency=medium
+
+  * onboard: Use appindicator
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 04 Dec 2019 15:28:55 +0000
+
+mint-artwork (1.3.1) tricia; urgency=medium
+
+  * MATE: Enable 2 and 3-finger clicks
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 29 Nov 2019 19:13:30 +0000
+
+mint-artwork (1.3.0) tricia; urgency=medium
+
+  * Adjust menu@cinnamon.org override
+  * Update default background
+  * Thunar: Add delete action
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 28 Nov 2019 19:53:50 +0000
+
+mint-artwork (1.2.9) tricia; urgency=medium
+
+  * Tune Mint logos
+  * Add cinnamon menu override
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 19 Nov 2019 13:36:50 +0000
+
+mint-artwork (1.2.8) tricia; urgency=medium
+
+  * Xfce: Change menu icon
+  * Xfce: Define background picture for monitors 2 and 3
+  * Xfce: Darken terminal background and define its color
+  * drawing: Set decoration style to ssd-symbolic
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 04 Nov 2019 16:40:52 +0000
+
+mint-artwork (1.2.7) tricia; urgency=medium
+
+  * Switch Xfce fonts to Ubuntu
+  * MATE: Add a11y media shortcuts
+  * Xfce: Add XApp Status plugin
+  * MATE: Add Xapp Status applet to panel
+  * Depend on mint-backgrounds-tricia
+  * Add new logo icons
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 21 Oct 2019 16:38:49 +0100
+
+mint-artwork (1.2.6) tina; urgency=medium
+
+  * Remove /usr/share/applications/mint-xfce4-lock.desktop
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 23 Jul 2019 12:27:56 +0200
+
+mint-artwork (1.2.5) tina; urgency=medium
+
+  * MATE: Set gnome-calculator as preferred calculator
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 23 Jul 2019 10:18:58 +0200
+
+mint-artwork (1.2.4) tina; urgency=medium
+
+  * Change QT5 font to Ubuntu
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 13 Jul 2019 10:55:22 +0200
+
+mint-artwork (1.2.3) tina; urgency=medium
+
+  * Add sele_linuxmint_center background
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 11 Jul 2019 16:08:55 +0200
+
+mint-artwork (1.2.2) tina; urgency=medium
+
+  * Depend on mint-backgrounds-tina
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 03 Jul 2019 10:15:11 +0200
+
+mint-artwork (1.2.1) tina; urgency=medium
+
+  * CUPS: Fix default-testpage.pdf
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 07 May 2019 11:35:43 +0100
+
+mint-artwork (1.2.0) tina; urgency=medium
+
+  * Switch fonts to Ubuntu
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 07 Mar 2019 14:14:38 +0000
+
+mint-artwork (1.1.9) tessa; urgency=medium
+
+  * Change Xfce menu logo
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 30 Nov 2018 20:21:54 +0000
+
+mint-artwork (1.1.8) tessa; urgency=medium
+
+  * MATE: Remove unnecessary ctrl-alt-backspace override
+  * Improve Cinnamon menu logo
+  * Cinnamon: Switch Clutter theme to Mint-Y-Dark
+  * Cinnamon: Switch app-menu-icon-name to linuxmint-logo-5
+  * Depend on mint-backgrounds-tessa
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 27 Nov 2018 17:10:17 +0000
+
+mint-artwork (1.1.7) tessa; urgency=medium
+
+  * Xfwm4: Add menu button to button layout
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 11 Sep 2018 11:03:49 +0100
+
+mint-artwork (1.1.6) tara; urgency=medium
+
+  * Fix wrong value for org.gnome.desktop.background picture-uri
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 17 Jul 2018 11:02:32 +0200
+
+mint-artwork (1.1.5) tara; urgency=medium
+
+  * MATE: Increase default panel size to 27px
+  * MATE: Switch default notification theme to Coco
+  * Xfce: Remove indicator plugin
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 21 Jun 2018 19:04:11 +0200
+
+mint-artwork (1.1.4) tara; urgency=medium
+
+  * Xfce: indicator applet use square-icons
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 19 Jun 2018 22:59:57 +0200
+
+mint-artwork (1.1.3) tara; urgency=medium
+
+  * Xfce: Remove statusnotifier, pulse OSD, separator and battery label.
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 19 Jun 2018 18:14:48 +0200
+
+mint-artwork (1.1.2) tara; urgency=medium
+
+  * Set org.gtk.Settings.FileChooser sort-directories-first to true
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 16 Jun 2018 09:49:52 +0200
+
+mint-artwork (1.1.1) tara; urgency=medium
+
+  * MATE: Set onboard as default AT mobility app
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 07 Jun 2018 13:47:55 +0100
+
+mint-artwork (1.1.0) tara; urgency=medium
+
+  * Fix Xfce context actions
+  * Packaging: Break/conflict with mint-artwork-debian-mate
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 30 May 2018 11:35:22 +0100
+
+mint-artwork (1.0.9) tara; urgency=medium
+
+  * Change default background
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 21 May 2018 12:28:06 +0100
+
+mint-artwork (1.0.8) tara; urgency=medium
+
+  * Add new branded backgrounds
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 20 May 2018 16:29:37 +0100
+
+mint-artwork (1.0.7) tara; urgency=medium
+
+  * Xfce: Adjust panel layout
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 18 May 2018 10:52:38 +0100
+
+mint-artwork (1.0.6) tara; urgency=medium
+
+  * Remove obsolete gsettings key org.mate.Marco.general side-by-side-tiling
+  * MATE/Xfce: Don't set QT_STYLE_OVERRIDE=gtk
+  * Add default qt5ct config in /etc/skel
+  * Set default Xfce themes to Mint-Y
+  * Remove menu button from titlebars
+  * Backgrounds: Depend on mint-backgrounds-tara
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 06 May 2018 11:14:50 +0100
+
+mint-artwork (1.0.5) tara; urgency=medium
+
+  * Provide mint-mate-default-settings
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 27 Apr 2018 15:13:45 +0100
+
+mint-artwork (1.0.4) tara; urgency=medium
+
+  * Add logo icons
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 12 Apr 2018 12:18:51 +0100
+
+mint-artwork (1.0.3) tara; urgency=medium
+
+  * Fix glib override filename
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 09 Feb 2018 13:10:34 +0000
+
+mint-artwork (1.0.2) tara; urgency=medium
+
+  * Depend on mint-themes, mint-x-icons and mint-y-icons
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 08 Feb 2018 18:08:36 +0000
+
+mint-artwork (1.0.1) tara; urgency=medium
+
+  * Add MATE configuration
+  * Conflict/replace mint-artwork-mate
+  * Add cinnamon artwork/config
+  * Add mint-artwork-gnome
+  * Add mint-backgrounds-xfce
+  * Add mint-artwork-xfce
+  * Add ldm-theme-mint
+  * Add mint-artwork-common
+  * Conflict/Replace mint-artwork-debian
+  * Conflict, replace mint-artwork-debian and mint-artwork-debian-cinnamon
+  * Move plymouth-themes to ubuntu-system-adjustments
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 08 Feb 2018 17:41:27 +0000
+
+mint-artwork (1.0.0) tara; urgency=medium
+
+  * Initial release
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 08 Feb 2018 14:14:38 +0000
