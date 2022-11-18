@@ -1,3 +1,9 @@
+mint-artwork (1.6.3) vera; urgency=medium
+
+  * cinnamon: Set default logo (cs_info and menu)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 18 Nov 2022 11:14:57 +0000
+
 mint-artwork (1.6.2) vera; urgency=medium
 
   * Depend on mint-backgrounds-vera

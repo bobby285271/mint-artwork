@@ -95,7 +95,8 @@ name='Mint-Y-Dark'
 [org.cinnamon]
 panel-scale-text-icons=true
 workspace-expo-view-as-grid=true
-app-menu-icon-name="linuxmint-logo-5"
+app-menu-icon-name="linuxmint-logo-ring-symbolic"
+system-icon="linuxmint-logo-ring-symbolic"
 
 [org.cinnamon.sounds]
 close-file="/usr/share/mint-artwork/sounds/close.oga"
