@@ -1,3 +1,15 @@
+mint-artwork (1.6.2) vera; urgency=medium
+
+  * Depend on mint-backgrounds-vera
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 08 Nov 2022 13:24:36 +0000
+
+mint-artwork (1.6.1) vanessa; urgency=medium
+
+  * Hide home/trash/network desktop icons by default
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 06 Oct 2022 13:03:50 +0100
+
 mint-artwork (1.6.0) vanessa; urgency=medium
 
   * Mate power manager: Set icon policy to present by default

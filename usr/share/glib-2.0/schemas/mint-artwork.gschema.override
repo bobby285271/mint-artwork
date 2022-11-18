@@ -135,9 +135,11 @@ session-manager-uses-logind=true
 settings-daemon-uses-logind=true
 
 [org.nemo.desktop]
-computer-icon-visible=true
+computer-icon-visible=false
+home-icon-visible=false
+network-icon-visible=false
+trash-icon-visible=false
 font="Ubuntu 10"
-home-icon-visible=true
 volumes-visible=true
 
 [org.nemo.window-state]
@@ -175,10 +177,11 @@ rgba-order="rgb"
 theme-name="LinuxMint"
 
 [org.mate.caja.desktop]
-computer-icon-visible=true
-font="Ubuntu 10"
-home-icon-visible=true
+computer-icon-visible=false
+home-icon-visible=false
 trash-icon-visible=false
+network-icon-visible=false
+font="Ubuntu 10"
 volumes-visible=true
 
 [org.mate.caja.preferences]
