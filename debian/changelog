@@ -1,3 +1,16 @@
+mint-artwork (1.6.5) vera; urgency=medium
+
+  * Spice up default colors
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 25 Nov 2022 15:40:33 +0000
+
+mint-artwork (1.6.4) vera; urgency=medium
+
+  * Add cursor themes (Bibata, GoogleDot, XCursor)
+  * Change default mouse cursor to Bibata Modern Classic
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 25 Nov 2022 14:04:34 +0000
+
 mint-artwork (1.6.3) vera; urgency=medium
 
   * cinnamon: Set default logo (cs_info and menu)

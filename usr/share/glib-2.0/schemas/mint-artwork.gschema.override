@@ -53,10 +53,10 @@ use-client-side-decorations='gnome,ubuntu,pop,cinnamon,cinnamon2d,mate,xfce'
 options=['grp\tgrp:win_space_toggle', 'terminate\tterminate:ctrl_alt_bksp']
 
 [org.cinnamon.desktop.interface]
-cursor-theme='DMZ-White'
+cursor-theme='Bibata-Modern-Classic'
 gtk-key-theme='Default'
-gtk-theme='Mint-Y'
-icon-theme='Mint-Y'
+gtk-theme='Mint-Y-Aqua'
+icon-theme='Mint-Y-Aqua'
 menus-have-icons=true
 toolkit-accessibility=false
 font-name="Ubuntu 10"
@@ -90,7 +90,7 @@ button-power="interactive"
 lock-on-suspend=true
 
 [org.cinnamon.theme]
-name='Mint-Y-Dark'
+name='Mint-Y-Dark-Aqua'
 
 [org.cinnamon]
 panel-scale-text-icons=true
@@ -215,7 +215,7 @@ three-finger-click=2
 options=['grp\tgrp:win_space_toggle', 'terminate\tterminate:ctrl_alt_bksp']
 
 [org.mate.peripherals-mouse]
-cursor-theme="default"
+cursor-theme="Bibata-Modern-Classic"
 
 [org.mate.Marco.general]
 titlebar-font="Ubuntu Medium 10"
