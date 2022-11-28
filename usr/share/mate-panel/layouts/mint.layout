@@ -31,17 +31,17 @@ toplevel-id=bottom
 position=30
 locked=true
 
-[Object launcher-terminal]
+[Object launcher-firefox]
 object-type=launcher
-launcher-location=/usr/share/applications/mate-terminal.desktop
+launcher-location=/usr/share/applications/firefox.desktop
 menu-path=applications:/
 toplevel-id=bottom
 position=40
 locked=true
 
-[Object launcher-firefox]
+[Object launcher-terminal]
 object-type=launcher
-launcher-location=/usr/share/applications/firefox.desktop
+launcher-location=/usr/share/applications/mate-terminal.desktop
 menu-path=applications:/
 toplevel-id=bottom
 position=50

@@ -21,8 +21,8 @@ cursor-theme='DMZ-White'
 document-font-name="Sans 10"
 font-name="Ubuntu 10"
 gtk-key-theme='Default'
-gtk-theme='Mint-Y'
-icon-theme='Mint-Y'
+gtk-theme='Mint-Y-Aqua'
+icon-theme='Mint-Y-Aqua'
 monospace-font-name="Monospace 10"
 toolkit-accessibility=false
 
@@ -155,8 +155,8 @@ buttons-have-icons=false
 document-font-name="Sans 10"
 enable-animations=false
 font-name="Ubuntu 10"
-gtk-theme="Mint-Y"
-icon-theme="Mint-Y"
+gtk-theme="Mint-Y-Aqua"
+icon-theme="Mint-Y-Aqua"
 menus-have-icons=true
 monospace-font-name="Monospace 10"
 
@@ -194,6 +194,9 @@ show-icon-text="never"
 show-image-thumbnails="always"
 thumbnail-limit=4294967295
 
+[org.mate.caja.window-state]
+start-with-toolbar=false
+
 [org.mate.Marco.general]
 button-layout=":minimize,maximize,close"
 center-new-windows=true
@@ -215,7 +218,7 @@ three-finger-click=2
 options=['grp\tgrp:win_space_toggle', 'terminate\tterminate:ctrl_alt_bksp']
 
 [org.mate.peripherals-mouse]
-cursor-theme="Bibata-Modern-Classic"
+cursor-theme="Bibata-Original-Classic"
 
 [org.mate.Marco.general]
 titlebar-font="Ubuntu Medium 10"
