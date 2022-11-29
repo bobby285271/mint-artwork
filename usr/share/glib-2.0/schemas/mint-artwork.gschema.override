@@ -218,7 +218,7 @@ three-finger-click=2
 options=['grp\tgrp:win_space_toggle', 'terminate\tterminate:ctrl_alt_bksp']
 
 [org.mate.peripherals-mouse]
-cursor-theme="Bibata-Original-Classic"
+cursor-theme="Bibata-Modern-Classic"
 
 [org.mate.Marco.general]
 titlebar-font="Ubuntu Medium 10"

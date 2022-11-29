@@ -1,3 +1,11 @@
+mint-artwork (1.6.9) vera; urgency=medium
+
+  * cursor themes: Remove quotes in inherits defs
+  * Move cursors to new pkg
+  * MATE: Use the same cursor theme as everywhere else
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 29 Nov 2022 10:36:35 +0000
+
 mint-artwork (1.6.8) vera; urgency=medium
 
   * Xfce panel: Fix typo
