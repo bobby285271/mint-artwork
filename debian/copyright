@@ -16,3 +16,7 @@ License: GPL-3+
  .
  On Debian systems, the complete text of the GNU General
  Public License version 3 can be found in "/usr/share/common-licenses/GPL-3".
+
+Files: usr/share/mint-artwork/sounds/*
+Copyright: 2022 Google
+License: CC-BY-4.0
