@@ -23,25 +23,25 @@ toplevel-id=bottom
 position=20
 locked=true
 
-[Object launcher-caja]
-object-type=launcher
-launcher-location=/usr/share/applications/caja-browser.desktop
-menu-path=applications:/
-toplevel-id=bottom
-position=30
-locked=true
-
 [Object launcher-firefox]
 object-type=launcher
 launcher-location=/usr/share/applications/firefox.desktop
 menu-path=applications:/
 toplevel-id=bottom
-position=40
+position=30
 locked=true
 
 [Object launcher-terminal]
 object-type=launcher
 launcher-location=/usr/share/applications/mate-terminal.desktop
+menu-path=applications:/
+toplevel-id=bottom
+position=40
+locked=true
+
+[Object launcher-caja]
+object-type=launcher
+launcher-location=/usr/share/applications/caja-browser.desktop
 menu-path=applications:/
 toplevel-id=bottom
 position=50
