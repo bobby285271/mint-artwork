@@ -1,3 +1,15 @@
+mint-artwork (1.7.2) vera; urgency=medium
+
+  * lightdm: Set mouse pointer/size
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 02 Dec 2022 18:14:19 +0000
+
+mint-artwork (1.7.1) vera; urgency=medium
+
+  * Xfce: Fix cursor settings
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 02 Dec 2022 14:38:11 +0000
+
 mint-artwork (1.7.0) vera; urgency=medium
 
   * Update sounds

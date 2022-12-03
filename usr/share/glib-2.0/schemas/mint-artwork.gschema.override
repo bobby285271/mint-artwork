@@ -4,6 +4,8 @@ icon-theme-name='Mint-X-Dark'
 font-name='Ubuntu 11'
 background='/usr/share/backgrounds/linuxmint/default_background.jpg'
 draw-user-backgrounds=true
+cursor-theme-name='Bibata-Modern-Classic'
+cursor-theme-size=24
 
 [org.onboard]
 theme='/usr/share/mint-artwork/onboard/Nightshade.theme'
