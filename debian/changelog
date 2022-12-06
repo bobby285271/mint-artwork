@@ -1,3 +1,9 @@
+mint-artwork (1.7.3) vera; urgency=medium
+
+  * Slick Greeter: Set theme to Mint-Y-Aqua
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 06 Dec 2022 14:45:40 +0000
+
 mint-artwork (1.7.2) vera; urgency=medium
 
   * lightdm: Set mouse pointer/size

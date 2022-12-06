@@ -1,6 +1,6 @@
 [x.dm.slick-greeter]
-theme-name='Mint-X'
-icon-theme-name='Mint-X-Dark'
+theme-name='Mint-Y-Aqua'
+icon-theme-name='Mint-Y-Aqua'
 font-name='Ubuntu 11'
 background='/usr/share/backgrounds/linuxmint/default_background.jpg'
 draw-user-backgrounds=true
