@@ -1,6 +1,6 @@
 [x.dm.slick-greeter]
 theme-name='Mint-Y-Aqua'
-icon-theme-name='Mint-Y-Aqua'
+icon-theme-name='Mint-Y-Sand'
 font-name='Ubuntu 11'
 background='/usr/share/backgrounds/linuxmint/default_background.jpg'
 draw-user-backgrounds=true
@@ -24,7 +24,7 @@ document-font-name="Sans 10"
 font-name="Ubuntu 10"
 gtk-key-theme='Default'
 gtk-theme='Mint-Y-Aqua'
-icon-theme='Mint-Y-Aqua'
+icon-theme='Mint-Y-Sand'
 monospace-font-name="Monospace 10"
 toolkit-accessibility=false
 
@@ -58,7 +58,7 @@ options=['grp\tgrp:win_space_toggle', 'terminate\tterminate:ctrl_alt_bksp']
 cursor-theme='Bibata-Modern-Classic'
 gtk-key-theme='Default'
 gtk-theme='Mint-Y-Aqua'
-icon-theme='Mint-Y-Aqua'
+icon-theme='Mint-Y-Sand'
 menus-have-icons=true
 toolkit-accessibility=false
 font-name="Ubuntu 10"
@@ -158,7 +158,7 @@ document-font-name="Sans 10"
 enable-animations=false
 font-name="Ubuntu 10"
 gtk-theme="Mint-Y-Aqua"
-icon-theme="Mint-Y-Aqua"
+icon-theme="Mint-Y-Sand"
 menus-have-icons=true
 monospace-font-name="Monospace 10"
 

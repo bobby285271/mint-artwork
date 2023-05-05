@@ -73,7 +73,10 @@
       <property name="show-notifications" type="bool" value="false"/>
     </property>
     <property name="plugin-13" type="string" value="clock">
-      <property name="digital-format" type="string" value="%H:%M"/>
+      <property name="digital-time-format" type="string" value="%H:%M"/>
+      <property name="digital-layout" type="uint" value="1"/>
+      <property name="digital-date-font" type="string" value="Sans 8"/>
+      <property name="digital-time-font" type="string" value="Sans Bold 8"/>
     </property>
     <property name="plugin-14" type="string" value="separator"/>
   </property>

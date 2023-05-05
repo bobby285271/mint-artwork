@@ -1,3 +1,17 @@
+mint-artwork (1.7.4) vera; urgency=medium
+
+  * Add cinnamon styles (#1)
+  * Add HighContrast to styles
+  * Mint-Y: Remove refs to dark icon themes
+  * Mint-Y-Legacy: Remove refs to dark icon themes
+  * Remove Mint-Y-Legacy (moved to Mint-L)
+  * Cinnamon styles: Fix Mint-X color codes
+  * Mint-Y: Remove brown theme
+  * Mint-Y: Adapt to icon theme changes
+  * Xfce: Show the date and time in the clock applet
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 04 May 2023 12:02:05 +0100
+
 mint-artwork (1.7.3) vera; urgency=medium
 
   * Slick Greeter: Set theme to Mint-Y-Aqua
