@@ -1,3 +1,9 @@
+mint-artwork (1.7.5) victoria; urgency=medium
+
+  * Depend on mint-backgrounds-victoria
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 31 May 2023 10:29:20 +0100
+
 mint-artwork (1.7.4) vera; urgency=medium
 
   * Add cinnamon styles (#1)
