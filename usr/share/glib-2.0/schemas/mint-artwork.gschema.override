@@ -25,7 +25,7 @@ font-name="Ubuntu 10"
 gtk-key-theme='Default'
 gtk-theme='Mint-Y-Aqua'
 icon-theme='Mint-Y-Sand'
-monospace-font-name="Monospace 10"
+monospace-font-name="DejaVu Sans Mono 10"
 toolkit-accessibility=false
 
 [org.gnome.desktop.background]

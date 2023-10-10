@@ -1,3 +1,9 @@
+mint-artwork (1.7.6) faye; urgency=medium
+
+  * Set the mono font to DejaVu Sans Mono 10.
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 19 Sep 2023 10:27:13 +0100
+
 mint-artwork (1.7.5) victoria; urgency=medium
 
   * Depend on mint-backgrounds-victoria
