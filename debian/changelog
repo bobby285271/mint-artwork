@@ -1,3 +1,9 @@
+mint-artwork (1.7.7) virginia; urgency=medium
+
+  * Depend on mint-backgrounds-virginia
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 18 Nov 2023 17:39:25 +0000
+
 mint-artwork (1.7.6) faye; urgency=medium
 
   * Set the mono font to DejaVu Sans Mono 10.
