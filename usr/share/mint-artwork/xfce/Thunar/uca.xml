@@ -702,26 +702,81 @@
   </action>
 
   <action>
-    <icon>gnome-run</icon>
-    <name>Check SHA256</name>
-    <name xml:lang="ca">Comprovació SHA256</name>
-    <name xml:lang="es">Suma de verificación SHA256</name>
-    <name xml:lang="fr">Vérifier le SHA256</name>
-    <name xml:lang="ja">SHA256チェックサム</name>
-    <name xml:lang="it">Calcolo SHA256</name>
-    <name xml:lang="pt_BR">Verificador SHA256</name>
-    <name xml:lang="pt_PT">SHA256 checksum</name>
-    <name xml:lang="sv">SHA256-kontrollsumma</name>
-    <command>mint-sha256sum %f</command>
-    <description>Computes SHA256 checksum for the selected file.</description>
-    <description xml:lang="ca">Calcula la suma SHA256 per al fitxer seleccionat.</description>
-    <description xml:lang="es">Comprobar la suma de verificación SHA256 para el archivo seleccionado.</description>
-    <description xml:lang="fr">Calcule la signature SHA256 pour le fichier sélectionné.</description>
-    <description xml:lang="ja">選択したファイルのSHA256チェックサムを計算します</description>
-    <description xml:lang="it">Controlla la somma SHA256 per il file selezionato.</description>
-    <description xml:lang="pt_PT">Executa SHA256 checksum para o ficheiro seleccionado.</description>
-    <description xml:lang="pt_BR">Calcula o verificador SHA256 do arquivo selecionado.</description>
-    <description xml:lang="sv">Räknar ut SHA256-kontrollsumman för den valda filen.</description>
+    <icon>application-certificate</icon>
+    <name>Verify</name>
+    <name xml:lang="am">ማረጋገጫ</name>
+    <name xml:lang="be">Спраўдзіць</name>
+    <name xml:lang="ca">Verifica</name>
+    <name xml:lang="ca@valencia">Verifica</name>
+    <name xml:lang="cs">Ověřit</name>
+    <name xml:lang="cy">Gwirio</name>
+    <name xml:lang="da">Bekræft</name>
+    <name xml:lang="de">Prüfen</name>
+    <name xml:lang="el">Επαλήθευση</name>
+    <name xml:lang="es">Verificar</name>
+    <name xml:lang="et">Kontrolli</name>
+    <name xml:lang="eu">Egiaztatu</name>
+    <name xml:lang="fa">تأیید</name>
+    <name xml:lang="fi">Tarkista</name>
+    <name xml:lang="fr">Vérifier</name>
+    <name xml:lang="fr_CA">Vérifiez</name>
+    <name xml:lang="he">אימות</name>
+    <name xml:lang="hi">जाँचें</name>
+    <name xml:lang="hr">Provjeri</name>
+    <name xml:lang="hu">Ellenőrzés</name>
+    <name xml:lang="ia">Verificar</name>
+    <name xml:lang="is">Sannreyna</name>
+    <name xml:lang="it">Verifica</name>
+    <name xml:lang="ko">검증</name>
+    <name xml:lang="nl">Verifiëren</name>
+    <name xml:lang="pl">Zweryfikuj</name>
+    <name xml:lang="pt">Verificar</name>
+    <name xml:lang="pt_BR">Verificar</name>
+    <name xml:lang="ro">Verifică</name>
+    <name xml:lang="ru">Проверить</name>
+    <name xml:lang="sk">Overiť</name>
+    <name xml:lang="sl">Preveri</name>
+    <name xml:lang="sv">Verifiera</name>
+    <name xml:lang="tr">Doğrula</name>
+    <name xml:lang="uk">Перевірити</name>
+    <name xml:lang="uz">Tasdiqlash</name>
+    <name xml:lang="zh_CN">验证</name>
+    <command>mint-iso-verify %f</command>
+    <description>Verify the authenticity and integrity of the image</description>
+    <description xml:lang="be">Спраўдзіць сапраўднасць і цэласнасць вобраза</description>
+    <description xml:lang="ca">Verifica l'autenticitat i integritat de la imatge</description>
+    <description xml:lang="ca@valencia">Verifica l'autenticitat i integritat de la imatge</description>
+    <description xml:lang="cs">Ověřte pravost a integritu obrazu</description>
+    <description xml:lang="cy">Gwiriwch ddilysrwydd a chywirdeb y ddelwedd</description>
+    <description xml:lang="da">Bekræft aftrykkets ægthed og integritet</description>
+    <description xml:lang="de">Überprüfen Sie die Echtheit und Unversehrtheit des Abbildes</description>
+    <description xml:lang="el">Επαληθεύστε τη γνησιότητα και την ακεραιότητα της εικόνας</description>
+    <description xml:lang="es">Verificar la autenticidad e integridad de la imagen</description>
+    <description xml:lang="et">Kontrolli selle tõmmise autentsust ja terviklikkust</description>
+    <description xml:lang="eu">Egiaztatu irudiaren benetakotasuna eta osotasuna</description>
+    <description xml:lang="fa">صحت و صحت تصویر را بررسی کنید</description>
+    <description xml:lang="fi">Tarkista kuvan aitous ja eheys</description>
+    <description xml:lang="fr">Vérifier l'authenticité et l'intégrité de l'image</description>
+    <description xml:lang="fr_CA">Vérifiez l'authenticité et l'intégrité de cette image.</description>
+    <description xml:lang="he">אימות האמינות וכלליות של תמונת־החטף</description>
+    <description xml:lang="hr">Provjeri vjerodostojnost i cjelovitost slike</description>
+    <description xml:lang="hu">Ellenőrizze a lemezkép hitelessége és épségét</description>
+    <description xml:lang="is">Sannreydu uppruna og áreiðanleika diskmyndarinnar</description>
+    <description xml:lang="it">Verifica l'autenticità e l'integrità dell'immagine</description>
+    <description xml:lang="ko">이미지의 진위 및 무결성 검증</description>
+    <description xml:lang="nl">Verifieer de echtheid en integriteit van de schijfkopie</description>
+    <description xml:lang="pl">Zweryfikuj autentyczność i integralność obrazu</description>
+    <description xml:lang="pt">Verifique a autenticidade e integridade da imagem</description>
+    <description xml:lang="pt_BR">Verifique a autenticidade e integridade da imagem</description>
+    <description xml:lang="ro">Verificați autenticitatea și integritatea imaginii</description>
+    <description xml:lang="ru">Проверка подлинности и целостности образа</description>
+    <description xml:lang="sk">Overiť pravosť a integritu obrazu</description>
+    <description xml:lang="sl">Preverite avtentičnost in integriteto slike</description>
+    <description xml:lang="sv">Bekräfta avbildens äkthet och integritet.</description>
+    <description xml:lang="tr">Kalıbın gerçekliğini ve bütünlüğünü doğrula</description>
+    <description xml:lang="uk">Перевірка автентичності та цілісності образу</description>
+    <description xml:lang="uz">Tasvirning haqiqiyligi va yaxlitligini tekshirish</description>
+    <description xml:lang="zh_CN">验证镜像的完整性和真实性</description>
     <patterns>*.iso;*.ISO</patterns>
     <audio-files/>
     <image-files/>
