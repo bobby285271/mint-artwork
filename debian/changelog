@@ -1,3 +1,9 @@
+mint-artwork (1.8.0) virginia; urgency=medium
+
+  * qt5: Switch default icon theme to Mint-Y-Sand
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 19 Dec 2023 16:21:27 +0000
+
 mint-artwork (1.7.9) virginia; urgency=medium
 
   * Thunar: Verify, use fullcolor icon
