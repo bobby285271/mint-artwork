@@ -1,3 +1,15 @@
+mint-artwork (1.8.2) wilma; urgency=medium
+
+  * Cinnamon styles: Remove Adwaita/HighContrast
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 28 Apr 2024 10:40:54 +0100
+
+mint-artwork (1.8.1) wilma; urgency=medium
+
+  * Depend on mint-backgrounds-wilma
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 04 Feb 2024 10:04:16 +0000
+
 mint-artwork (1.8.0) virginia; urgency=medium
 
   * qt5: Switch default icon theme to Mint-Y-Sand

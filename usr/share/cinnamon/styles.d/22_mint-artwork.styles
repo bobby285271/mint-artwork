@@ -80,23 +80,6 @@
           {"name": "pink", "color": "#e54980", "themes": "Mint-Y-Pink", "cursor": "Bibata-Modern-Classic"},
           {"name": "purple", "color": "#8c5dd9", "themes": "Mint-Y-Purple", "cursor": "Bibata-Modern-Classic"}
         ]
-    },
-    {
-      "name": "Adwaita",
-      "default": "mixed",
-      "mixed": [
-          {"default": "true", "name": "blue", "color": "#3584e4", "themes": "Adwaita", "cinnamon": "Mint-Y-Dark-Blue", "cursor": "Bibata-Modern-Classic"}
-      ],
-      "dark": [
-          {"name": "blue", "color": "#15539e", "themes": "Adwaita-dark", "icons": "Adwaita", "cinnamon": "Mint-Y-Dark-Blue", "cursor": "Bibata-Modern-Classic"}
-      ]
-    },
-    {
-      "name": "HighContrast",
-      "default": "light",
-      "light": [
-          {"default": "true", "name": "contrast", "color": "#000000", "themes": "HighContrast", "cinnamon": "Mint-Y-Dark-Grey", "cursor": "Bibata-Modern-Classic"}
-      ]
     }
   ]
 }
