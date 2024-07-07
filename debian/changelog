@@ -1,3 +1,9 @@
+mint-artwork (1.8.4) wilma; urgency=medium
+
+  * Remove skel config for Hexchat
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 02 Jul 2024 16:49:40 +0100
+
 mint-artwork (1.8.3) wilma; urgency=medium
 
   * xfce: fix .desktop filename in favorites
