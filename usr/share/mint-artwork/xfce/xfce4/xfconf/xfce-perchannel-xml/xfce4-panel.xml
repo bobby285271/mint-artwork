@@ -13,6 +13,7 @@
       <property name="background-alpha" type="uint" value="95"/>
       <property name="enter-opacity" type="uint" value="100"/>
       <property name="leave-opacity" type="uint" value="100"/>
+      <property name="icon-size" type="uint" value="20"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
         <value type="int" value="2"/>
@@ -58,6 +59,7 @@
       <property name="style" type="uint" value="0"/>
     </property>
     <property name="plugin-8" type="string" value="systray">
+      <property name="icon-size" type="int" value="20"/>
       <property name="names-visible" type="array">
         <value type="string" value="networkmanager applet"/>
       </property>

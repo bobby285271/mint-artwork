@@ -1,3 +1,33 @@
+mint-artwork (1.8.9) xia; urgency=medium
+
+  * Xfce: Reduce panel icon sizes to 20px
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 10 Jan 2025 14:53:53 +0000
+
+mint-artwork (1.8.8) xia; urgency=medium
+
+  * cinnamon styles: Remove references to obsolete theme
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 23 Dec 2024 16:00:23 +0000
+
+mint-artwork (1.8.7) xia; urgency=medium
+
+  * Don't depend on mint-backgrounds-release
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 03 Dec 2024 15:44:29 +0000
+
+mint-artwork (1.8.6) xia; urgency=medium
+
+  * Remove qt5ct.conf from skel
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 29 Nov 2024 15:53:32 +0000
+
+mint-artwork (1.8.5) xia; urgency=medium
+
+  * Depend on mint-backgrounds-xia
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 20 Nov 2024 12:08:54 +0000
+
 mint-artwork (1.8.4) wilma; urgency=medium
 
   * Remove skel config for Hexchat
